@@ -1,0 +1,75 @@
+.navbar{
+    height:50px;
+    width:99vw;
+    padding:5px;
+    text-align:right;
+
+}
+.back{
+    background-image:url("https://res.cloudinary.com/dohmmplgc/image/upload/v1697259056/zh1i0m9aqydbgjxwzsc0.webp");
+    height:100vh;
+    background-size:cover;
+}
+.car{
+    padding:25px;
+    margin:30px;
+    text-align:left;
+    font-family:"Cambria";
+    font-weight:bold; 
+}
+.card{
+    padding:50px;
+    background-color:lightgrey;
+    
+}
+.p1{
+    text-align:right;
+
+}
+.text{
+    font-family:"roboto";
+    font-weight:"bold";
+    padding:40px;
+
+}
+.features{
+    font-family:"bold";
+    text-align:center;
+}
+.services img{
+    max-width: 150px;
+    box-shadow:5px 5px 20px rgba(0, 0, 0, 0.2);
+    margin-bottom:1rem;
+    border-radius:100%;
+    
+}
+.serv{
+    padding:50px;
+    margin:30px;
+}
+.nav-link:hover{
+
+        background-color:red;
+        transition:2s;
+
+}
+
+.cont{
+    text-align:center;
+    font-family:'Roboto';
+    color:black;
+}
+.frm{
+    text-align:center;
+}
+.h2{
+    padding:10px;
+    margin:10px;
+    text-align:center;
+}
+.p4{
+    padding:10px;
+    margin:10px;
+    text-align:center;
+
+}
